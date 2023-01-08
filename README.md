@@ -8,7 +8,7 @@ This repository is for submitting the fourth homework of Algorithmic Methods of 
 ## Overview of the Project
 The primary goal of this project is to provide the tools searching, querying and analysing the data of the Marvel Universe with graph theory and algorithms. In the first part, we have preprocessed the data, ready to be used as graph network. Next we have implemented functionalities regarding graph algorithms and later visualized the results. The project ends with answering algorithmic questions.
 
-### **¡IMPORTANTE! We recommend you to read the HTML file as it has the correct rendering regardless your browser**
+### **¡IMPORTANTE! We recommend you to download the HTML file as GitHub has problems rendering `plotly` plots**
 
 ## Summary of the Files
 
