@@ -3,5 +3,11 @@ HW5 of group 11 of ADM - Master in Data Science (Università La Sapienza, Roma)
 
 Members:
 - Cem Sirin
-- Mohamed Assem
+- Mohamed Sabbah
 - Eric Rubia Aguilera
+
+In this repository you may find:
+
+- main.ipynb : Jupyter Notebook where we have coded the solution to HW5 questions: 1-3, Command_Line, Bonus and Algorithmic Questions.
+- CommandLine.sh : Executable file where there is the code for Command Line Question
+- cl_output: This folder contains the output to the command line questions.
