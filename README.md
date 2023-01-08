@@ -8,4 +8,5 @@ Members:
 
 In this repository you may find:
 
-- main.
+- main.ipynb : Jupyter Notebook where we have coded the solution to HW5 questions: 1-3, Command_Line, Bonus and Algorithmic Questions.
+- 
